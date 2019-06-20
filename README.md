@@ -6,7 +6,8 @@
 ### Author: Morgana Spake  
    
 ### Links and Resources  
-* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-props/pull/1)  
+* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-props/pull/2)  
+* [Travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-28-props)  
   
 ### Modules  
 #### `app.js, message.js`  
