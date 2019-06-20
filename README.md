@@ -9,19 +9,17 @@
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-props/pull/1)  
   
 ### Modules  
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `app.js, message.js`  
+##### Exported Values and Methods  
+  
+###### `app -> React component`  
+###### `message -> React component`  
   
 #### Running the app  
 * `npm start`  
   
-<!-- #### Tests
-* How do you run tests?
+#### Tests  
+* How do you run tests? `npm test`  
 * What assertions were made?
-* What assertions need to be / should be made? -->
+  - App renders correctly  
+  - Message renders correctly  
