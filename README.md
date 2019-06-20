@@ -7,8 +7,8 @@
    
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-28-props/pull/1)  
-
-<!-- ### Modules
+  
+### Modules  
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -16,7 +16,7 @@
 Usage Notes or examples
 
 ###### `bar(array) -> array`
-Usage Notes or examples -->
+Usage Notes or examples
   
 #### Running the app  
 * `npm start`  
